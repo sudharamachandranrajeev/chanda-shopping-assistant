@@ -28,9 +28,9 @@ dependencies:
   path_provider: ^2.1.5
   # Picture fingerprints (difference hash) to spot the same product at
   # another shop.
-  image: ^4.12.0
+  image: ^4.13.1
   # Price alerts on the device itself (Android, Linux, Windows).
-  flutter_local_notifications: ^23.0.0
+  flutter_local_notifications: ^23.0.3
   # Background price checks on Android.
   workmanager: ^0.10.10
   # Design tokens, themes and parts from the Nithya Studio kit (Apache-2.0).
